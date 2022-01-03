@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "NzM3NzM2OTI3MTUwNjA0MzU4.XyBtDQ.ATGobznNBdLoQyZSvcC4pKn4K4E",
     "prefix": ".",
     "ownerids": [
         1234567890
@@ -8,7 +8,8 @@
     "standardoutput": 123467890,
     "usepages": true,
     "mongodb": {
-        "url": "mongodburl"
+        "url": "mongodb+srv://Znation31:<password>@cluster0.z1jyn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+"
     },
     "roblox": {
         "cookie": "fullrobloxcookie"
