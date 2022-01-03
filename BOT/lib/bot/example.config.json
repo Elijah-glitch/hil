@@ -8,8 +8,7 @@
     "standardoutput": 123467890,
     "usepages": true,
     "mongodb": {
-        "url": "mongodb+srv://Znation31:<password>@cluster0.z1jyn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-"
+        "url": "https://data.mongodb-api.com/app/data-jcesw/endpoint/data/beta"
     },
     "roblox": {
         "cookie": "fullrobloxcookie"
