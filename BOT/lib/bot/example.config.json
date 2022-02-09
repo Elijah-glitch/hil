@@ -1,17 +1,17 @@
 {
-    "token": "NzM3NzM2OTI3MTUwNjA0MzU4.XyBtDQ.ATGobznNBdLoQyZSvcC4pKn4K4E",
-    "prefix": ".",
+    "token": "OTQwMTk5MDUzNDAzMjQyNTA2.YgD6mg.RXRLMumnrhCj1Q1sEvGQoi_Az0c",
+    "prefix": "~",
     "ownerids": [
-        1234567890
+        506199325190389763
     ],
     "guild": 1234567890,
     "standardoutput": 123467890,
     "usepages": true,
     "mongodb": {
-        "url": "https://data.mongodb-api.com/app/data-jcesw/endpoint/data/beta"
+        "url": "mongodb+srv://Znation31:<e>@cluster0.z1jyn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     },
     "roblox": {
         "cookie": "fullrobloxcookie"
     },
-    "apikey": "generatearandomstringforthis"
+    "apikey": "s9O0gy6nvHOuWQszrLnKjLm9YguoUWqpbS5Gi4ulZHpLIvQbdz3v659FbDbnMw5i"
 }
