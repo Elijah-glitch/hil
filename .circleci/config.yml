@@ -32,7 +32,7 @@ jobs:
     - discord/status:
         success_message: "**${Elijah-glitch}**'s build: **${CIRCLE_JOB}** passed."
         failure_message: "**${Elijah-glitch}**'s build: **${CIRCLE_JOB}** failed."
-        webhook: "${DISCORD_STATUS_WEBHOOK}"
+        webhook: "${https://discord.com/api/webhooks/908738775436394516/cn8znVixp6vEeA8bOcMTBu-CJ5g2rWivdQQFIxW9PKE9FSeJLA_7GS5ISC6OldrCrNQs}"
 workflows:
   main:
     jobs:
